@@ -14,7 +14,7 @@
     - Partie actuelle
     - (partie précédente)
 - configurer pour qu'on puisse utiliser la montre
-- l'id du compte est stocké sur le téléphone pour ne pas avoir à rentrer le mot de passe à chaque fois
+- (l'id du compte est stocké sur le téléphone pour ne pas avoir à rentrer le mot de passe à chaque fois)
 - (Possibilité d'avoir des amis)
 - (Possibilité de supprimer le compte)
 
@@ -50,8 +50,8 @@
 - Fin de la partie
   - game master (administrateur) termine la partie
   - la temps de la partie est écoulé
-- Possibilité de quitter la partie
-- Possibilité de supprimer la partie
+- (Possibilité de quitter la partie)
+- (Possibilité de supprimer la partie)
 - (Avoir la possibilité de relancer une partie déjà jouer, le jeu se souvient des photos, hints)
 
 ### Définition d'une mission/photo à trouver
