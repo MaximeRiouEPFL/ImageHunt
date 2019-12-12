@@ -53,6 +53,7 @@
 - (Possibilité de quitter la partie)
 - (Possibilité de supprimer la partie)
 - (Avoir la possibilité de relancer une partie déjà jouer, le jeu se souvient des photos, hints)
+- (Pouvoir créer un template d'une partie qu'on peut lancer)
 
 ### Définition d'une mission/photo à trouver
 - Deux modes pour rajouter une photo:
