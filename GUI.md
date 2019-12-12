@@ -10,7 +10,7 @@ Ecran quand on ouvre l'application pour la première fois ou quand on se delog
 - bouton pour créer un compte
 - bouton login
 
-##Écran pour visionner/éditer le compte
+## Écran pour visionner/éditer le compte
 Doit implémenter les composants nécessaire pour créer un compte firebase
 ### Doit contenir
 - Pseudo
