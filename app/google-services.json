@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946433563758",
+    "firebase_url": "https://imagehunt-d8293.firebaseio.com",
+    "project_id": "imagehunt-d8293",
+    "storage_bucket": "imagehunt-d8293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946433563758:android:10086a71b3d0e498cc1a7f",
+        "android_client_info": {
+          "package_name": "ch.epfl.labonapp.imagehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946433563758-ap7pukikf9sdqosde36sr1ve668iao27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.epfl.labonapp.imagehunt",
+            "certificate_hash": "09389285f2a203846f01f9b80754dbcb40c0e2b0"
+          }
+        },
+        {
+          "client_id": "946433563758-r5j9h7v6e71higoe6t860sq7mbm87ub6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNhYEegDo7LtOCGbkaSQkkav5pr5VHaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946433563758-r5j9h7v6e71higoe6t860sq7mbm87ub6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
